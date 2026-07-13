@@ -57,7 +57,6 @@ const RESOURCES = {"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/assets/logo.webp": "a1804b50153d54cf86ae820a8fb85d1e",
 "assets/fonts/MaterialIcons-Regular.otf": "b8a6f22ffabe9b9201294dd0e4f8340c",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/shaders/stretch_effect.frag": "f0ab847ccb98001d214e09f120664284",
 "main.dart.wasm": "95e95542b01921d2a8f3b01fea00421d",
 "main.dart.js": "feb2ff26c02aae598bb917438149cf35"};
 // The application shell files that are downloaded before a service worker can
