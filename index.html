@@ -14,7 +14,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/sarah_mae_simcoe_website/">
+  <base href="/sarah_mae_simcoe/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -31,8 +31,85 @@
 
   <title>Sarah Mae Simcoe | Clinical Psychologist</title>
   <link rel="manifest" href="manifest.json">
+
+  <style>
+    /* Premium loading screen styles matching site brand colors */
+    body {
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    #loading-indicator {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: #ffffff;
+      z-index: 99999;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      transition: opacity 0.4s ease-out;
+    }
+    .spinner-container {
+      position: relative;
+      width: 70px;
+      height: 70px;
+      margin-bottom: 24px;
+    }
+    .spinner-outer {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border: 4px solid rgba(20, 186, 195, 0.1);
+      border-top: 4px solid #14BAC3;
+      border-radius: 50%;
+      animation: spin-clockwise 1.2s cubic-bezier(0.5, 0.1, 0.4, 0.9) infinite;
+    }
+    .spinner-inner {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: calc(100% - 20px);
+      height: calc(100% - 20px);
+      border: 3px solid rgba(253, 197, 32, 0.1);
+      border-bottom: 3px solid #FDC520;
+      border-radius: 50%;
+      animation: spin-counter-clockwise 1s cubic-bezier(0.5, 0.1, 0.4, 0.9) infinite;
+    }
+    .loading-text {
+      color: #2B2D2F;
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      opacity: 0.85;
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    @keyframes spin-clockwise {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes spin-counter-clockwise {
+      0% { transform: rotate(360deg); }
+      100% { transform: rotate(0deg); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 0.95; }
+    }
+  </style>
 </head>
 <body>
+  <div id="loading-indicator">
+    <div class="spinner-container">
+      <div class="spinner-outer"></div>
+      <div class="spinner-inner"></div>
+    </div>
+    <div class="loading-text">Loading...</div>
+  </div>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
