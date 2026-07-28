@@ -76845,7 +76845,7 @@ if(p!=null)p.an(t.Pu).f.GB(A.as0(null,null,null,null,null,B.Q,null,A.by("Could n
 return A.N($async$nA,r)},
 N(a){var s,r,q,p,o=this,n=null,m=A.bw(a,n,t.w).w.a.a<850
 if(m){s=t.p
-s=A.c([new A.Gt(new A.bW(A.Q(a).ax.b,n,n,n,n,n,B.a4),A.cS(A.c([A.qu("assets/logo.webp",new A.afe(),n,48,"Sarah Mae Simcoe Brand Logo"),B.y7,A.by("Sarah Mae Simcoe",n,A.cZ().$3$color$fontSize$fontWeight(B.k,20,B.a5),n),A.by("Clinical Psychologist",n,A.cZ().$2$color$fontSize(B.k.bn(0.85),14),n)],s),B.ar,B.jt,B.F),n),A.HB(B.Dz,new A.aff(o,a),B.Rw),A.HB(B.Dy,new A.afg(o,a),B.Ru),A.HB(B.Dt,new A.afk(o,a),B.Rs),A.HB(B.DB,new A.afl(o,a),B.Rv),A.HB(B.Dx,new A.afm(o,a),B.Rx)],s)
+s=A.c([new A.Gt(new A.bW(A.Q(a).ax.b,n,n,n,n,n,B.a4),A.cS(A.c([A.qu("assets/logo.webp",new A.afe(),n,48,"Sarah Mae Simcoe Brand Logo"),B.y7,A.by("Sarah Mae Simcoe",n,A.cZ().$3$color$fontSize$fontWeight(B.k,20,B.a5),n),A.by("Clinical Psychologist",n,A.cZ().$2$color$fontSize(B.k.bn(0.85),14),n)],s),B.ar,B.jt,B.F),n),A.HB(B.Dz,new A.aff(o,a),B.Rw),A.HB(B.Dy,new A.afg(o,a),B.Ru),A.HB(B.Dw,new A.afk(o,a),B.Rs),A.HB(B.DB,new A.afl(o,a),B.Rv),A.HB(B.Dx,new A.afm(o,a),B.Rx)],s)
 r=A.an([null,0],t.LO,t.S)
 s=new A.Gr(B.lr,new A.qI(new A.a8X(!0,!0,!0,s,r),B.bc,B.b3,!1,n,n,B.z5,!1,n,6,B.a1,n,n,B.Q,B.ai,n),n)}else s=n
 r=o.ga5v()
@@ -77113,7 +77113,7 @@ else p.push(A.cS(A.c([g.$1(n),g.$1(m),g.$1(l),g.$1(k),g.$1(j),g.$1(i),g.$1(h)],q
 g=A.cS(p,r,B.x,B.F)
 f=f?B.yG:B.cC
 r=A.XT(o,o,A.Q(a).ax.b,o,o,o,3,o,o,B.k,o,o,B.mf,A.Q(a).ax.b.bn(0.3),new A.c8(A.dn(14),B.p),o,o,o,o,o)
-r=A.azz(!1,A.ea(A.c([A.by("Get in Touch",o,A.cZ().$2$fontSize$fontWeight(16,B.a5),o),B.kc,B.Dv],q),B.y,B.x,B.br,0),o,o,o,o,o,o,this.d,o,r)
+r=A.azz(!1,A.ea(A.c([A.by("Get in Touch",o,A.cZ().$2$fontSize$fontWeight(16,B.a5),o),B.kc,B.Du],q),B.y,B.x,B.br,0),o,o,o,o,o,o,this.d,o,r)
 p=A.Q(a)
 return A.cS(A.c([d,B.Mh,s,B.cu,g,B.y5,A.asA(f,A.c([r,new A.Id(this.e,o,o,o,A.aBe(o,o,o,o,o,o,o,o,o,A.Q(a).ax.b,o,o,B.mf,o,new A.c8(A.dn(14),B.p),new A.bs(p.ax.b,2,B.J,-1),o,o,o,o),o,o,!1,o,!0,o,A.by("Explore My Work",o,A.cZ().$2$fontSize$fontWeight(16,B.a5),o),o)],q),16,16)],q),e,B.x,B.F)}}
 A.a_3.prototype={
@@ -77152,7 +77152,7 @@ return A.bS(s,A.qu("assets/neurokin_logo.webp",new A.a49(),B.eK,s,"Neurokin & Co
 L9(a){var s=null,r=this.c,q=r?B.y:B.ar,p=t.p,o=A.ea(A.c([A.iv(B.Di,A.Q(a).ax.y,s,24),B.kc,A.by("Private Clinic",s,A.cZ().$4$color$fontSize$fontWeight$letterSpacing(A.Q(a).ax.b,14,B.a5,1),s)],p),B.y,B.x,B.br,0),n=r?B.am:B.aM
 n=A.by("Neurokin & Co.",s,A.cZ().$3$color$fontSize$fontWeight(B.aB,r?28:36,B.bd),n)
 r=r?B.am:B.aM
-return A.cS(A.c([o,B.c1,n,B.kd,A.by("Neurokin & Co. is the private psychology clinic providing neurodiversity-affirming therapy, assessment, consultation, and co-designed resources for young people, families, educators, and community. Evidence-based, relational, practical, and grounded in a deep respect for each young person\u2019s unique development, nervous system, strengths, interests, and support needs.",s,A.jj().$3$color$fontSize$height(B.lS,16,1.6),r),B.cu,A.alU(B.Du,A.by("Visit Neurokin & Co. Website",s,A.cZ().$1$fontWeight(B.a5),s),new A.a48(this),A.XT(s,s,A.Q(a).ax.b,s,s,s,s,s,s,B.k,s,s,B.md,s,new A.c8(A.dn(10),B.p),s,s,s,s,s))],p),q,B.x,B.F)}}
+return A.cS(A.c([o,B.c1,n,B.kd,A.by("Neurokin & Co. is the private psychology clinic providing neurodiversity-affirming therapy, assessment, consultation, and co-designed resources for young people, families, educators, and community. Evidence-based, relational, practical, and grounded in a deep respect for each young person\u2019s unique development, nervous system, strengths, interests, and support needs.",s,A.jj().$3$color$fontSize$height(B.lS,16,1.6),r),B.cu,A.alU(B.Dt,A.by("Visit Neurokin & Co. Website",s,A.cZ().$1$fontWeight(B.a5),s),new A.a48(this),A.XT(s,s,A.Q(a).ax.b,s,s,s,s,s,s,B.k,s,s,B.md,s,new A.c8(A.dn(10),B.p),s,s,s,s,s))],p),q,B.x,B.F)}}
 A.a49.prototype={
 $3(a,b,c){return A.iv(B.D7,A.Q(a).ax.b,null,64)},
 $S:57}
@@ -77187,7 +77187,7 @@ else{k=new A.aO(new Float64Array(16))
 k.cD()}j=A.Q(a).ax.b.bn(0.1)
 s=A.dn(8)
 r=t.p
-return A.f8(A.py(A.cS(A.c([A.ea(A.c([A.bS(p,A.iv(B.mU,A.Q(a).ax.b,p,20),B.q,p,p,new A.bW(j,p,p,s,p,p,B.a4),p,p,p,B.mh,p,p,p),B.y2,A.fr(new A.yY(q.a.c,A.jj().$3$color$fontSize$height(B.aB,15,1.6),p),1)],r),B.ar,B.x,B.F,0),B.ke,A.alU(B.DA,A.by("View publication",p,A.cZ().$1$fontWeight(B.a5),p),new A.agE(q),A.XT(p,p,A.Q(a).ax.b,p,p,p,0,p,p,B.k,p,p,B.CH,p,new A.c8(A.dn(10),B.p),p,p,p,p,p))],r),B.ar,B.x,B.F),p,B.fa,new A.bW(B.k,p,m,n,l,p,B.a4),B.dO,p,p,new A.am(o,o,o,o),k,p),B.aQ,p,new A.agF(q),new A.agG(q),p)}}
+return A.f8(A.py(A.cS(A.c([A.ea(A.c([A.bS(p,A.iv(B.mT,A.Q(a).ax.b,p,20),B.q,p,p,new A.bW(j,p,p,s,p,p,B.a4),p,p,p,B.mh,p,p,p),B.y2,A.fr(new A.yY(q.a.c,A.jj().$3$color$fontSize$height(B.aB,15,1.6),p),1)],r),B.ar,B.x,B.F,0),B.ke,A.alU(B.DA,A.by("View publication",p,A.cZ().$1$fontWeight(B.a5),p),new A.agE(q),A.XT(p,p,A.Q(a).ax.b,p,p,p,0,p,p,B.k,p,p,B.CH,p,new A.c8(A.dn(10),B.p),p,p,p,p,p))],r),B.ar,B.x,B.F),p,B.fa,new A.bW(B.k,p,m,n,l,p,B.a4),B.dO,p,p,new A.am(o,o,o,o),k,p),B.aQ,p,new A.agF(q),new A.agG(q),p)}}
 A.agF.prototype={
 $1(a){var s=this.a
 return s.ae(new A.agD(s))},
@@ -77248,7 +77248,7 @@ q=A.et(m,m,s?8:16)
 p=s?30:58
 o=t.p
 p=A.c([A.fr(A.hy(m,A.f8(A.ea(A.c([r,q,new A.nl(1,B.j4,A.qu("assets/header_heading.webp",new A.ZX(n),B.eK,p,"Sarah Mae Simcoe - Clinical Psychologist"),m)],o),B.y,B.x,B.br,0),B.bx,m,m,m,m),B.a1,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,n.e,m,m,m,m,m,m),1),B.y2],o)
-if(s)p.push(A.aqd(m,m,B.Dw,m,m,new A.ZY(a),m,m,m))
+if(s)p.push(A.aqd(m,m,B.Dv,m,m,new A.ZY(a),m,m,m))
 else{s=A.c([new A.jH("Neurokin & Co",n.f,m),new A.jH("Thinker\u2019s Theatre",n.r,m)],o)
 s.push(new A.jH("Research",n.w,m))
 s.push(new A.jH("LinkedIn",n.y,m))
@@ -77256,7 +77256,7 @@ s.push(new A.jH("Contact",n.x,m))
 p.push(A.ea(s,B.y,B.x,B.F,0))}return A.py(A.ea(p,B.y,B.t8,B.F,0),m,B.ag,new A.bW(l.ax.y,m,new A.cR(B.p,B.p,new A.bs(k,1,B.J,-1),B.p),m,j,m,B.a4),B.bD,90,m,B.CJ,m,m)}}
 A.ZW.prototype={
 $3(a,b,c){var s=this.a.d?30:46
-return A.iv(B.mT,A.Q(a).ax.b,null,s)},
+return A.iv(B.mU,A.Q(a).ax.b,null,s)},
 $S:57}
 A.ZX.prototype={
 $3(a,b,c){return A.cS(A.c([A.by("Sarah Mae Simcoe",B.db,A.cZ().$4$color$fontSize$fontWeight$height(B.aB,this.a.d?16:32,B.a5,1.1),null)],t.p),B.ar,B.ju,B.F)},
@@ -80925,28 +80925,28 @@ B.D6=new A.cB(57500,"MaterialIcons",!0)
 B.D7=new A.cB(57943,"MaterialIcons",!1)
 B.D8=new A.cB(58064,"MaterialIcons",!1)
 B.Db=new A.cB(58308,"MaterialIcons",!1)
+B.mT=new A.cB(58333,"MaterialIcons",!1)
 B.Dd=new A.cB(58372,"MaterialIcons",!1)
 B.Dg=new A.cB(58513,"MaterialIcons",!1)
-B.mT=new A.cB(58607,"MaterialIcons",!1)
+B.mU=new A.cB(58607,"MaterialIcons",!1)
 B.Dh=new A.cB(58856,"MaterialIcons",!1)
 B.Di=new A.cB(58873,"MaterialIcons",!1)
-B.mU=new A.cB(61075,"MaterialIcons",!1)
 B.Dm=new A.cB(62096,"MaterialIcons",!1)
 B.mV=new A.dd(24,0,400,0,48,B.l,1,null,!1)
 B.Do=new A.dd(null,null,null,null,null,B.k,null,null,null)
 B.Dp=new A.dd(null,null,null,null,null,B.l,null,null,null)
 B.Dl=new A.cB(61835,"MaterialIcons",!1)
 B.Dq=new A.dQ(B.Dl,26,B.lu,null,null)
-B.Dr=new A.dQ(B.mT,48,B.k,null,null)
+B.Dr=new A.dQ(B.mU,48,B.k,null,null)
 B.D9=new A.cB(58091,"MaterialIcons",!1)
 B.Ds=new A.dQ(B.D9,16,null,null,null)
-B.Dt=new A.dQ(B.mU,null,null,null,null)
 B.Da=new A.cB(58220,"MaterialIcons",!0)
-B.Du=new A.dQ(B.Da,16,null,null,null)
+B.Dt=new A.dQ(B.Da,16,null,null,null)
 B.D5=new A.cB(57499,"MaterialIcons",!0)
-B.Dv=new A.dQ(B.D5,18,null,null,null)
+B.Du=new A.dQ(B.D5,18,null,null,null)
 B.Dc=new A.cB(58332,"MaterialIcons",!1)
-B.Dw=new A.dQ(B.Dc,28,B.aB,null,null)
+B.Dv=new A.dQ(B.Dc,28,B.aB,null,null)
+B.Dw=new A.dQ(B.mT,null,null,null,null)
 B.Dk=new A.cB(61801,"MaterialIcons",!1)
 B.Dx=new A.dQ(B.Dk,null,null,null,null)
 B.Dn=new A.cB(62519,"MaterialIcons",!1)
