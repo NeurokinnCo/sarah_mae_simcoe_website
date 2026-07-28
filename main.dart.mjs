@@ -525,8 +525,12 @@ class CompiledApp {
       _1414: (ms, c) =>
       setTimeout(() => dartInstance.exports.$invokeCallback(c),ms),
       _1415: (handle) => clearTimeout(handle),
+      _1416: (ms, c) =>
+      setInterval(() => dartInstance.exports.$invokeCallback(c), ms),
+      _1417: (handle) => clearInterval(handle),
       _1418: (c) =>
       queueMicrotask(() => dartInstance.exports.$invokeCallback(c)),
+      _1419: () => Date.now(),
       _1424: o => Object.keys(o),
       _1425: () => new AbortController(),
       _1426: x0 => x0.abort(),
